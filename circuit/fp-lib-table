@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name KCDX-5S-S2)(type KiCad)(uri /Users/almil/work/kicad/libraries/misc/KCDX-5S-S2)(options "")(descr ""))
+  (lib (name 74HC1G14GV,125)(type KiCad)(uri /Users/almil/work/kicad/libraries/misc/74HC1G14GV,125)(options "")(descr ""))
+  (lib (name SN74LVC2G14DBVR)(type Legacy)(uri /Users/almil/work/kicad/libraries/misc/SN74LVC2G14DBVR/SN74LVC2G14DBVR.mod)(options "")(descr ""))
+  (lib (name NYS_Jacks)(type KiCad)(uri /Users/almil/work/kicad/libraries/misc/NYS_Jacks/NYS_Jacks.pretty)(options "")(descr ""))
+  (lib (name KCDX-5S-N)(type KiCad)(uri /Users/almil/work/kicad/libraries/misc/KCDX-5S-N)(options "")(descr ""))
+  (lib (name NYS2152G)(type KiCad)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/NYS2152G)(options "")(descr ""))
+  (lib (name NYS215)(type KiCad)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/NYS215)(options "")(descr ""))
+)

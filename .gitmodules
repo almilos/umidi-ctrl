@@ -1,0 +1,3 @@
+[submodule "lib-am-avr-common"]
+	path = lib-am-avr-common
+	url = git@github.com:almilos/lib-am-avr-common.git

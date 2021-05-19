@@ -1,0 +1,11 @@
+/bin
+/obj
+src/.*.sw?
+.vscode
+tags
+*.bak
+/rescue-backup/
+circuit-cache.lib
+*.lib
+circuit/*.bak
+*.DS_Store

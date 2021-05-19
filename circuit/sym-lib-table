@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name SN74LVC2G14DBVR)(type Legacy)(uri /Users/almil/work/kicad/libraries/misc/SN74LVC2G14DBVR/SN74LVC2G14DBVR.lib)(options "")(descr ""))
+  (lib (name 74HC1G14GV_125)(type Legacy)(uri /Users/almil/work/kicad/libraries/misc/74HC1G14GV,125/74HC1G14GV_125.lib)(options "")(descr ""))
+  (lib (name NYS2152G)(type Legacy)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/NYS2152G/NYS2152G.lib)(options "")(descr ""))
+  (lib (name NYS215)(type Legacy)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/NYS215/NYS215.lib)(options "")(descr ""))
+)

@@ -13,17 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Device:C C3
-U 1 1 5EEDF258
-P 3450 1550
-F 0 "C3" V 3198 1550 50  0000 C CNN
-F 1 "0.1u" V 3289 1550 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3488 1400 50  0001 C CNN
-F 3 "~" H 3450 1550 50  0001 C CNN
-	1    3450 1550
-	0    1    1    0   
-$EndComp
 Text GLabel 2450 1850 2    50   Input ~ 0
 BTN0
 $Comp
@@ -720,13 +709,6 @@ F 3 "" H 8350 1900 50  0001 C CNN
 	1    8350 1700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3650 1550 3650 2450
-Connection ~ 3650 2450
-Wire Wire Line
-	3600 1550 3650 1550
-Wire Wire Line
-	2450 1550 3300 1550
 $Comp
 L 74HC1G14GV_125:74HC1G14GV,125 U4
 U 1 1 605DA161
@@ -1370,4 +1352,22 @@ Wire Wire Line
 	9400 5300 9400 6250
 Wire Wire Line
 	9400 5300 9550 5300
+Wire Wire Line
+	2450 1550 3300 1550
+Connection ~ 3650 2450
+Wire Wire Line
+	3650 1550 3650 2450
+Wire Wire Line
+	3600 1550 3650 1550
+$Comp
+L Device:C C3
+U 1 1 5EEDF258
+P 3450 1550
+F 0 "C3" V 3198 1550 50  0000 C CNN
+F 1 "0.1u" V 3289 1550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3488 1400 50  0001 C CNN
+F 3 "~" H 3450 1550 50  0001 C CNN
+	1    3450 1550
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC

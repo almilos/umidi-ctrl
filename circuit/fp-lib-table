@@ -6,4 +6,5 @@
   (lib (name KCDX-5S-N)(type KiCad)(uri /Users/almil/work/kicad/libraries/misc/KCDX-5S-N)(options "")(descr ""))
   (lib (name NYS2152G)(type KiCad)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/NYS2152G)(options "")(descr ""))
   (lib (name NYS215)(type KiCad)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/NYS215)(options "")(descr ""))
+  (lib (name V23079A1001B301)(type Legacy)(uri /Users/almil/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/al.milos@mail.ru-mailru/work/kicad/libraries/misc/V23079A1001B301/V23079A1001B301.mod)(options "")(descr ""))
 )
